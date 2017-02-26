@@ -2,3 +2,30 @@ This is a git repo for conversionbuzz development app testing
 
 Using laravel web-development framework along with the adwords api
 
+How to publish a file to this repo
+
+In the command line execute the following commands
+
+A) Install Git:
+
+   1. $ sudo apt-get install git
+
+B) Config
+
+   1. $ git config --global user.name "your_username_here"
+   2. $ git config --global user.email "email_address"
+
+C) Publish to repo
+
+   1. $ git add README.md
+   2. $ git commit -m "updated on 02/28/17"
+   3. $ git push orgin master
+
+
+OPTIONAL: If you want to create a new repo 
+
+   $ git init MyNewRepo
+   $ cd MyNewRepo
+   $ nano README.md
+
+To publish start at step C)1. 
